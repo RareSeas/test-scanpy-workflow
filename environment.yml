@@ -35,3 +35,5 @@ dependencies:
    - matplotlib-inline==0.1.2
    - ipykernel==5.5.5
    - nbconvert==6.0.7
+   - scrublet==0.2.3
+   - pybiomart==0.2.0
