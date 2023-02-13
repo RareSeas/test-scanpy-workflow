@@ -35,9 +35,9 @@ For each channel:
 
 *  A counts matrix in `.hda5` format
 *  A UMAP `.png` file colored by 'leiden' with clusters labeled by a number and the gene symbol for the most variable gene observed for the cluster
-*  A `.png1 file showing the leiden rank gene group plots for each cluster 
+*  A `.png` file showing the leiden rank gene group plots for each cluster 
 
 
 Example results can be viewed in the github directories /figures and /results
 
-
+![Example UMAP](figures/upmapfigures/MantonBM1_Leiden_UMAP.png)
