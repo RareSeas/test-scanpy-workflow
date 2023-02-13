@@ -43,6 +43,5 @@ Example results can be viewed in the github directories /figures and /results
 ![Example UMAP](figures/upmapfigures/MantonBM1_Leiden_UMAP.png)
 
 
-<img src="figures/rank_genes_groups_leidenfigures/MantonBM1_rank_genes_groups_leiden.png" width="60%"
 
 [Example Rank Plot by Cluster](figures/rank_genes_groups_leidenfigures/MantonBM1_rank_genes_groups_leiden.png)
